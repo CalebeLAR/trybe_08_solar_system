@@ -5,7 +5,7 @@ import Title from './components/Title';
 
 class App extends React.Component {
   render() {
-    const headLine = 'texto recebido como props para o componente Title';
+    const headLine = 'Texto recebido como props para o componente Title';
     return (
       <>
         <Header />
