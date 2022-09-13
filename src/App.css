@@ -1,8 +1,9 @@
 .App {
   text-align: center;
 }
+
 .Planets {
-  display: inline-block;
   background-color: #431b6d;
+  display: inline-block;
   margin: 25px;
 }
