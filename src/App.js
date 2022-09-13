@@ -6,11 +6,11 @@ import Title from './components/Title';
 
 class App extends React.Component {
   render() {
-    const headLine = 'Texto recebido como props para o componente Title';
+    const titleProp = 'Planetas do sistema solar';
     return (
       <>
         <Header />
-        <Title headline={ headLine } />
+        <Title headline={ titleProp } />
         <SolarSystem />
         <Missions />
       </>
