@@ -25,4 +25,4 @@ No projeto eu pude utilizar **JSX no React**;
     npm start
 ```
 ## sobre o desenvolvimento
-_Segundo projeto desenvolvido no modulo de Frot-End durante minha formação na escola de tecnologia da trybe, que elaborou os requisitos para o projeto e forneceu as configuração de lint e arquivos de dados_
+_Segundo projeto desenvolvido no módulo de Front-End durante minha formação na escola de tecnologia da Trybe, que elaborou os requisitos para o projeto e forneceu as configurações de Lint e arquivos de dados._
