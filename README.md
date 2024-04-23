@@ -1,5 +1,5 @@
 # Solar System
-Um modelo do sistema solar! Ao utilizar essa aplicação, onde o usuário poderá:
+Um modelo do sistema solar onde o usuário pode:
 * Visualizar todos os planetas do sistema solar renderizados na tela;
 
 No projeto eu pude utilizar **JSX no React**;
