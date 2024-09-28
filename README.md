@@ -12,7 +12,7 @@ No projeto eu pude utilizar **JSX no React**;
 ## Como executar
 **1. Clone o repositório**  
 ```shell
-    git clone git@github.com:CalebeLAR/solar-system.git  
+    git clone git@github.com:CalebeLAR/trybe_08_solar_system.git 
 ```
 
 **2. Instale as dependências**  
